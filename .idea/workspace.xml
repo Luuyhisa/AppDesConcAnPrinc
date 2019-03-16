@@ -3,53 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c1bb73dc-b535-462c-99f6-f7685a1d9811" name="Default Changelist" comment="edit does it">
       <change afterPath="$USER_HOME$/.IntelliJIdea2018.3/system/workspace/applicationdesignconceptsandprinciples.9ef41500.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/PrncApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/ShapesForOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquareArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/SquarePer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prnc/src/test/java/za/ac/cput/prncples/prnc/PrncApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Deli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/POLO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Deli.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Grand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/POLO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Rect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Shapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Chapter4Assignment/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Chapter4Assignment/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Chapter4Assignment/RectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Chapter4Assignment/SquareTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="224">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
                 <element signature="e#386#387#0" expanded="true" />
                 <element signature="e#418#419#0" expanded="true" />
@@ -141,7 +96,6 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="408" />
-    <option name="y" value="69" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -267,14 +221,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552763118636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552764027385" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -416,7 +370,7 @@
       <workItem from="1552672169597" duration="594000" />
       <workItem from="1552673107224" duration="436000" />
       <workItem from="1552673740722" duration="1110000" />
-      <workItem from="1552762147937" duration="683000" />
+      <workItem from="1552762147937" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="edit does it">
       <created>1552672637803</created>
@@ -461,12 +415,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30776000" />
+    <option name="totallyTimeSpent" value="31602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2351987" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24979724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -707,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="224">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="e#386#387#0" expanded="true" />
             <element signature="e#418#419#0" expanded="true" />
