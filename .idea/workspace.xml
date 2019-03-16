@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1bb73dc-b535-462c-99f6-f7685a1d9811" name="Default Changelist" comment="edit does it">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c1bb73dc-b535-462c-99f6-f7685a1d9811" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaperr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,11 +36,87 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.m2/settings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="method#area#0;class#RectTest#0" />
+                <element signature="method#per#0;class#RectTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaperr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,6 +170,9 @@
         <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/p.java" />
         <option value="$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Square.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaperr.java" />
+        <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaper.java" />
         <option value="$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java" />
       </list>
     </option>
@@ -104,9 +185,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="454" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +204,50 @@
               <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="violetedPr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApplicationDesignConceptsAndPrinciples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApplicationDesignConceptsAndPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prnc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,7 +261,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552766827969" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552771034557" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -333,7 +458,7 @@
       <workItem from="1552673107224" duration="436000" />
       <workItem from="1552673740722" duration="1110000" />
       <workItem from="1552762147937" duration="1509000" />
-      <workItem from="1552764879913" duration="1876000" />
+      <workItem from="1552764879913" duration="4722000" />
     </task>
     <task id="LOCAL-00001" summary="edit does it">
       <created>1552672637803</created>
@@ -342,13 +467,17 @@
       <option name="project" value="LOCAL" />
       <updated>1552672637803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit does it">
+      <created>1552766877317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552766877318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RectTest_perDel - 2019.03.15 at 16h 00m 46s.xml">
-      <configuration name="RectTest.perDel" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SquareTest_weAreDel - 2019.03.15 at 16h 03m 17s.xml">
       <configuration name="SquareTest.weAreDel" configurationId="JUnit" />
     </history-entry>
@@ -376,14 +505,18 @@
     <history-entry file="RectTest - 2019.03.15 at 20h 39m 45s.xml">
       <configuration name="RectTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RectTest - 2019.03.16 at 22h 14m 48s.xml">
+      <configuration name="RectTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33478000" />
+    <option name="totallyTimeSpent" value="36324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2538524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17761557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +525,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36363637" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36363637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,7 +533,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32976827" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32976827" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31907308" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -517,20 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -556,27 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -616,17 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="method#area#0;class#RectTest#0" />
-            <element signature="method#per#0;class#RectTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/Chapter4Assignment/Rect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -642,10 +729,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/Chapter4Assignment/RectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="method#area#0;class#RectTest#0" />
+            <element signature="method#per#0;class#RectTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/za/ac/cput/prncples/prnc/Cycler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.m2/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaperr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prnc/src/main/java/violetedPr/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

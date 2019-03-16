@@ -13,7 +13,6 @@ public class Cycle implements Shapes{
         //double r=2;
        // double circumference =(2*3.14*r);
         //return circumference;//
-
         return 0;//Liskov Substitution Principle violation
     }
 }
